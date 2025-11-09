@@ -23,6 +23,26 @@ Auxiliar de TI com foco em desenvolvimento Front-End.
   <br>[Link para repositório](https://github.com/orgs/crewFE/repositories)
 </details>
 
+## Trabalhos Práticos
+<details><summary><strong>Reconhecimento de Fissuras usando JS para Processamento de Imagem</strong></summary></details>
+
+<details><summary><strong>Landing Page Simples</strong></summary>
+  <br>Página simples demonstrando o uso de JavaScript aliado ao HTML e estilização por CSS. Trabalho desenvolvido para a disciplina de Tecnologias de Desenvolvimento de Sistemas como uma introdução às linguagens de desenvolvimento web.
+
+<br><img src="https://github.com/ugoincc/tds-trabalho-1/blob/main/img/screenshots/mainScreen.png" alt="frontPageScreenshot" />
+
+<img src="https://github.com/ugoincc/tds-trabalho-1/blob/main/img/screenshots/bottomMainScreen.png" alt="bottomMainScreen"/>
+
+  <br>[Link para repositório](https://github.com/ugoincc/tds-trabalho-1)
+
+</details>
+
+
+## Portfólio BootDev
+<a target="_blank" rel="noopener" href='https://www.boot.dev/u/ugoincc' align="left">
+  <img src="https://api.boot.dev/v1/users/public/995d4354-c79f-48e2-97ee-9faef11ded74/thumbnail" width='300' >
+</a>
+
 ## Linguagens e Ferramentas
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
