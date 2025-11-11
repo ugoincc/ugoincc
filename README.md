@@ -24,7 +24,6 @@ Auxiliar de TI com foco em desenvolvimento Front-End.
 </details>
 
 ## Trabalhos Práticos
-<details><summary><strong>Reconhecimento de Fissuras usando JS para Processamento de Imagem</strong></summary></details>
 
 <details><summary><strong>Landing Page Simples</strong></summary>
   <br>Página simples demonstrando o uso de JavaScript aliado ao HTML e estilização por CSS. Trabalho desenvolvido para a disciplina de Tecnologias de Desenvolvimento de Sistemas como uma introdução às linguagens de desenvolvimento web.
