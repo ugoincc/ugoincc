@@ -1,6 +1,6 @@
 # Hugo Gustavo Cordeiro
 **Estudante de Ciência da Computação - Computer Science Student** <br>
-Auxiliar de TI com foco em desenvolvimento Front-End.
+Desenvolvedor Frontend - React / Next
 
 ## Projetos em Destaque
 <details>
