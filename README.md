@@ -25,6 +25,15 @@ Desenvolvedor Frontend - React / Next
 
 ## Trabalhos Práticos
 
+<details><summary><strong>Chat híbrido TCP / UDP</strong></summary>
+<br> Sistema de Chat em terminal (REPL) utilizando JavaScript. Trabalho desenvolvido para a disciplina de Sistemas Distribuidos, onde o tema era a implementação de protocolos TCP / UDP em aplicação prática.
+
+  <br><img src="https://github.com/ugoincc/tcp-udp-hybridchat/blob/main/user_demo.png" alt="demo" />
+  
+  <br>[Link para repositório](https://github.com/ugoincc/tcp-udp-hybridchat)
+
+</details>
+
 <details><summary><strong>Landing Page Simples</strong></summary>
   <br>Página simples demonstrando o uso de JavaScript aliado ao HTML e estilização por CSS. Trabalho desenvolvido para a disciplina de Tecnologias de Desenvolvimento de Sistemas como uma introdução às linguagens de desenvolvimento web.
 
@@ -35,6 +44,7 @@ Desenvolvedor Frontend - React / Next
   <br>[Link para repositório](https://github.com/ugoincc/tds-trabalho-1)
 
 </details>
+
 
 
 ## Portfólio BootDev
