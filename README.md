@@ -15,6 +15,20 @@ Fluent in English.
 
 ---
 
+## Currently
+
+**Self-hosted AI Platform** — an internal, company-wide AI platform (in pilot): a RAG
+pipeline over a vector store with custom MCP integrations, self-hosted so data stays in-house.
+<br>
+**Stack:** RAG · vector embeddings · custom MCP integrations · self-hosted infra.
+<br>
+**Relevance:** retrieval-augmented generation and tool integrations, taken from concept to a
+working internal pilot.
+
+Also: undergraduate research on biometric stress analysis for wearables — see *UpTrader Wear* below.
+
+---
+
 ## What I've Built
 
 > The projects below are professional, internal systems — descriptions focus on the
@@ -37,9 +51,9 @@ Fluent in English.
   <strong>Admin panel:</strong> React 18 + Vite · MUI v6 + MUI X Data Grid ·
   drag-and-drop (dnd-kit) · interactive maps with clustering (Leaflet) · TanStack Query.
   <br><br>
-  <em>Why it matters:</em> full ownership across the stack, an API-first pipeline that keeps
-  back-end and front-end contracts in sync via codegen, and a genuinely rich UI
-  (data grids, geographic maps, drag-and-drop).
+  <em>Relevance:</em> end-to-end ownership across the stack, an API-first pipeline that keeps
+  back-end and front-end contracts in sync through codegen, and a data-rich UI spanning
+  grids, geographic maps, and drag-and-drop.
 </details>
 
 <details>
@@ -65,20 +79,9 @@ Fluent in English.
 </details>
 
 <details>
-  <summary><strong>Self-hosted AI Platform — internal, in pilot</strong></summary>
-  <br>A company-wide internal AI platform I'm developing: a RAG pipeline over a vector store
-  with custom MCP integrations, self-hosted so data stays in-house. Currently in pilot testing.
-  <br><br>
-  <strong>Stack:</strong> RAG · vector embeddings · custom MCP integrations · self-hosted infra.
-  <br><br>
-  <em>Why it matters:</em> shows I can take a modern, moving-target problem (retrieval-augmented
-  generation, tool integrations) from concept to a working internal pilot.
-</details>
-
-<details>
   <summary><strong>UpTrader Wear — Wear OS (Kotlin), applied research</strong></summary>
   <br>A Wear OS companion app for the UpTrader product, built as part of my undergraduate
-  research (biometric data collection for stress analysis). This is where I step outside web.
+  research (biometric data collection for stress analysis) — native mobile work outside the web stack.
   <br><br>
   <strong>Stack:</strong> Kotlin · native Wear OS · Jetpack Compose (Wear Compose Material3) ·
   Gradle Kotlin DSL + version catalogs · MVVM + StateFlow.
